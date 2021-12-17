@@ -1,0 +1,10 @@
+
+public class ForQ1P112 {
+	public static void main(String[] args) {
+		// Hello Java를 10번 출력하는 구문을 작성해보세요.
+		// for문을 사용해서 작성해주세요.
+		for(int i = 0; ; i++) {
+			System.out.println("Hello Java" + i);
+		}
+	}
+}

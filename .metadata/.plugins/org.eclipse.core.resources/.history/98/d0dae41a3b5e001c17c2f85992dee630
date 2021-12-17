@@ -1,0 +1,9 @@
+package interaction;
+
+private static final price=1000;
+
+public class Seller {
+	private int money;
+	private int mango;
+
+}

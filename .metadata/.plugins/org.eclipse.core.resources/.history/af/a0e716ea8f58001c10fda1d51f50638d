@@ -1,0 +1,20 @@
+package structure;
+
+public class Structure02P190 {
+
+	public static void main(String[] args) {
+		// 사람을 두 명 만들어보세요(a, b)
+		Person a = new Person();
+		a.name = "채종훈";
+		a.age = 20;
+		a.pNum = "010-1234-5678";
+		a.uNum = 32;
+		
+		Person b = new Person();
+		b.name = "김자바";
+		b.age = 10;
+		b.pNum = "010-9999-8888";
+		b.uNum = 22;
+	}
+
+}

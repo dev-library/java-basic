@@ -1,0 +1,13 @@
+
+public class Method02P204 {
+
+	public static int add2(int a) {
+		return a + 1;
+	}
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,30 @@
+package today;
+
+public class Q2 {
+
+	public static void main(String[] args) {
+		// if~else문을 switch~case구문으로 바꾸기
+		int a = 3;
+		/*
+		if(a == 3) {
+			System.out.println("3입니다.");
+		} else if(a == 2 ) {
+			System.out.println("2입니다.");
+		} else if (a == 1) {
+			System.out.println("1입니다.");
+		}*/
+		switch(a) {
+		case 3:
+			System.out.println("3입니다.");
+			break;
+		case 2:
+			System.out.println("2입니다.");
+			break;
+		case 1:
+			System.out.println("1입니다.");
+			break;
+		}
+
+	}
+
+}
