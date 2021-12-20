@@ -1,7 +1,0 @@
-package constructor;
-
-public class Webtoon {
-	public String name;
-	public int series;
-	
-}
