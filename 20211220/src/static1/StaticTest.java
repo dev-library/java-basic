@@ -19,6 +19,4 @@ public class StaticTest {
 	public static void check() {
 		System.out.println("공용 메서드 체크 완료.");// + num1);
 	}
-	
-	
 }
