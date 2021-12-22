@@ -15,7 +15,6 @@ public class Main03P320 {
 		a1.breakSpeed();
 		a1.showStatus();
 		a1.reFuel();
-		a1.showStatus();
+		a1.showStatus();	
 	}
-
 }
