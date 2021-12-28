@@ -1,8 +1,0 @@
-package game.inheritance;
-
-// 1. 뼈대가 되는 정보를 가진 Commoner 상속
-public class Warrior extends Commoner {
-
-
-
-}
